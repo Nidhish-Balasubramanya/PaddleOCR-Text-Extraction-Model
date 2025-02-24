@@ -47,5 +47,5 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## **Contact**
 - Allen Reji - allenreji@gmail.com
 - Nathania Rachael - nathaniarachael@gmail.com
-- Nidhish Balasubramanya - nidhishbala3006@gmail.com
+- Nidhish Balasubramanya - nidhishbalasubramanya@gmail.com
 - Jacob Cherian - jakecherian10@gmail.com
